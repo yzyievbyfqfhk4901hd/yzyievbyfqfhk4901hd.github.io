@@ -1,0 +1,14 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+This code is free to use, modify, and share for personal or commercial purposes.
+Copyright (c) 2025 Cheshire
+
+This repository is publicly hosted on GitHub by Per'kele (Ryuk) with permission from Cheshire. The code remains the property of Cheshire, but you are free to use it in your own projects.
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQSsaZMxp7a83TlvVxaP+w1CYNs6KQUCaMxmJwAKCRCP+w1CYNs6
+Kc4DAQC88bxG8xLHrO8/RDBTRImEUIaB9CAifnI97DP4MqLy+AEAsl88Dfsh4EKU
++ukpMh9gt/3OHkGOBHpWCJUiIHOsBAo=
+=D6iO
+-----END PGP SIGNATURE-----
