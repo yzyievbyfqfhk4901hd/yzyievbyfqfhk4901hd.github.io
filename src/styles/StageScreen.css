@@ -21,16 +21,10 @@
   cursor: pointer;
 }
 
-@font-face {
-  font-family: "DD";
-  src: url("/fonts/dd.otf") format("opentype");
-  font-display: swap;
-}
-
-.stage-question {
+.stage-door {
   display: block;
-  font-family: "DD", "Times New Roman", "Georgia", serif;
-  font-size: clamp(48px, 16vw, 96px);
-  line-height: 1;
-  color: #111;
+  width: clamp(96px, 18vw, 136px);
+  height: auto;
+  max-height: 80vh;
+  object-fit: contain;
 }

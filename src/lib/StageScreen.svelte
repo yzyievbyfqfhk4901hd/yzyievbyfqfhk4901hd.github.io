@@ -12,6 +12,6 @@
 
 <section class="stage-screen {fading ? 'is-fading' : ''}">
   <button class="stage-button" type="button" on:click={handleClick} aria-label="Enter">
-    <span class="stage-question">?</span>
+    <img class="stage-door" src="/door/door.png" alt="" width="136" height="280" />
   </button>
 </section>
