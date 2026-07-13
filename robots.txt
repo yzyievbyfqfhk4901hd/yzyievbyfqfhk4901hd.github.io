@@ -1,0 +1,32 @@
+User-agent: *
+Disallow:
+
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: archive.org_bot
+Disallow: /
+
+User-agent: Wayback
+Disallow: /
+
+User-agent: heritrix
+Disallow: /
+
+User-agent: archive-it
+Disallow: /
+
+User-agent: WebArchiv
+Disallow: /
+
+User-agent: Gypsy
+Disallow: /
+
+User-agent: HTTrack
+Disallow: /
+
+User-agent: SiteSucker
+Disallow: /
+
+User-agent: GrabSite
+Disallow: /
